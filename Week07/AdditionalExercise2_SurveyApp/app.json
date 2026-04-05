@@ -1,0 +1,10 @@
+{
+  "name": "AdditionalExercise2_SurveyApp",
+  "displayName": "Survey App",
+  "expo": {
+    "name": "Survey App",
+    "slug": "survey-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}

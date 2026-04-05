@@ -1,0 +1,10 @@
+{
+  "name": "AdditionalExercise1_RegistrationForm",
+  "displayName": "Registration Form",
+  "expo": {
+    "name": "Registration Form",
+    "slug": "registration-form",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}

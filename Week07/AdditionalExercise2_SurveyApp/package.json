@@ -1,0 +1,22 @@
+{
+  "name": "AdditionalExercise2_SurveyApp",
+  "version": "1.0.0",
+  "description": "Dynamic Survey App with multiple input types",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.71.0",
+    "react-native-vector-icons": "^9.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@babel/preset-env": "^7.20.0",
+    "@babel/preset-react": "^7.18.0",
+    "metro-react-native-babel-preset": "^0.73.0"
+  }
+}

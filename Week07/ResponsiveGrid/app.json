@@ -1,0 +1,10 @@
+{
+  "name": "Exercise3_ResponsiveGrid",
+  "displayName": "Responsive Grid App",
+  "expo": {
+    "name": "Responsive Grid",
+    "slug": "responsive-grid",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}

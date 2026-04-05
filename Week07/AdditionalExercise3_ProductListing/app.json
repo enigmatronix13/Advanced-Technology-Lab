@@ -1,0 +1,10 @@
+{
+  "name": "AdditionalExercise3_ProductListing",
+  "displayName": "Product Listing",
+  "expo": {
+    "name": "Product Listing",
+    "slug": "product-listing",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
