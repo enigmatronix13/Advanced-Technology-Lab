@@ -2,7 +2,6 @@
 
 Hands-on lab experiments in Flutter and React Native covering UI development, navigation, animations, and data handling.
 
----
 
 ## Tech Stack
 - Flutter (Dart)
@@ -10,7 +9,6 @@ Hands-on lab experiments in Flutter and React Native covering UI development, na
 - Firebase / REST APIs
 - AsyncStorage
 
----
 
 ## Repository Structure
 Week 2 → Flutter Basics  
@@ -21,7 +19,6 @@ Week 6 → React Native (JS Basics)
 Week 7 → Components & Layout  
 Week 8 → Animations + Storage  
 
----
 
 ## Key Concepts
 - UI design and input handling  
