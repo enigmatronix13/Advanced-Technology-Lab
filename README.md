@@ -11,13 +11,13 @@ Hands-on lab experiments in Flutter and React Native covering UI development, na
 
 
 ## Repository Structure
-Week 2 → Flutter Basics  
-Week 3 → Widgets & Layout  
-Week 4 → Animations  
-Week 5 → Data (API/Firebase)  
-Week 6 → React Native (JS Basics)  
-Week 7 → Components & Layout  
-Week 8 → Animations + Storage  
+Week 2 - Flutter Basics  
+Week 3 - Widgets & Layout  
+Week 4 - Animations  
+Week 5 - Data (API/Firebase)  
+Week 6 - React Native (JS Basics)  
+Week 7 - Components & Layout  
+Week 8 - Animations + Storage  
 
 
 ## Key Concepts
