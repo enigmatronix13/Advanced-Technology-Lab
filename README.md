@@ -1,6 +1,6 @@
 # Advanced Technology Lab
 
-Hands-on lab experiments in Flutter and React Native covering UI development, navigation, animations, and data handling.
+Lab experiments in Flutter and React Native covering UI development, navigation, animations, and data handling.
 
 
 ## Tech Stack
