@@ -1,4 +1,4 @@
-# Advanced Technology Lab
+# Android Technology Lab
 
 Lab experiments in Flutter and React Native covering UI development, navigation, animations, and data handling.
 
